@@ -1,2 +1,1 @@
-# PlantillaProy-ProC104
-NOMBRA LOS PLANETAS
+# PROC104-V1-Plantilla-proyecto
